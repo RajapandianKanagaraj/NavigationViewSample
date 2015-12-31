@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/blue"
+            android:checked="false"
+            android:title="@string/blue" />
+
+        <item
+            android:id="@+id/light_green"
+            android:checked="false"
+            android:title="@string/light_green" />
+
+        <item
+            android:id="@+id/indigo"
+            android:checked="false"
+            android:title="@string/indigo" />
+
+        <item
+            android:id="@+id/pink"
+            android:checked="false"
+            android:title="@string/pink" />
+
+        <item
+            android:id="@+id/orange"
+            android:checked="false"
+            android:title="@string/orange" />
+        <item
+            android:id="@+id/purple"
+            android:checked="false"
+            android:title="@string/purple" />
+        <item
+            android:id="@+id/cyan"
+            android:checked="false"
+            android:title="@string/cyan" />
+        <item
+            android:id="@+id/light_blue"
+            android:checked="false"
+            android:title="@string/light_blue" />
+        <item
+            android:id="@+id/green"
+            android:checked="false"
+            android:title="@string/green" />
+        <item
+            android:id="@+id/lime"
+            android:checked="false"
+            android:title="@string/lime" />
+    </group>
+</menu>

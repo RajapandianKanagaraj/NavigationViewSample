@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/classes-7d596417123810e52c8160bed5fdd1ece7b55b59.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/pre-dexed/debug/classes-d025d5336687080098ca0e4830a4bd11e44f207f.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/classes-0aa19d3e17e7f79d9c5aed4d90e6109e206ca720.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/classes-050927d2d01f6462571354a6823dce535606dd78.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/pre-dexed/debug/classes-1cf95657848619b616c34bceb2695c6392c8ffb2.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/pre-dexed/debug/classes-706ac0c9181bbdbb4d353739c6f0f240e05884f1.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-49db4c8b33b5823ee9be30ab5156453d21687282.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/pre-dexed/debug/classes-cd3b451a4fcb9a0417d00f1bb6351915bc99b360.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/a6000388/Documents/Projects/MyAndroidSamples/NavigationViewSample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-653eeacdafae63b644dc7ba0ae0fa07c7ca9c32a.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/classes-cc6fd396a8eef953ee8f4828388e9ad99fb6d4d1.jar" />
+    </item>
+    <item
+        jar="/Users/a6000388/Documents/Android_SDK/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/a6000388/Documents/Projects/NavigationView/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-6ea6f0941f934633b4e2015b9de2cc95e7f9042c.jar" />
+    </item>
+
+</items>
